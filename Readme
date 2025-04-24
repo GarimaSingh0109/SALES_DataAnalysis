@@ -1,7 +1,3 @@
-Here's a sample **README** file for your GitHub project **SALES_DataAnalysis** based on the provided link to your Jupyter notebook. Feel free to modify it according to your needs.
-
----
-
 # SALES Data Analysis
 
 This repository contains a detailed **Data Analysis** project on **Sales** data. The analysis is done using Python, specifically using **Jupyter Notebooks**. The project aims to extract meaningful insights from sales data, including trends, patterns, and forecasts. The analysis focuses on several aspects like performance metrics, visualizations, and potential predictive models.
